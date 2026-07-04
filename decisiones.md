@@ -98,3 +98,22 @@ Tarea de Semana 2 completada. Las tres skills dejaron de ser placeholder y queda
 - [x] `skills/propuesta-comercial-consultora.md` — catálogo de precios, empuje a suscripción (meta ≥1 cliente recurrente al cierre del trimestre), usa `plantillas/propuesta-base.md`.
 
 **Pendiente Semana 2/3:** workflow `web-pyme-seo-argentina` (texto SEO) y los 3 simulacros de Semana 3 en `casos-exito/` (bodega, PyME de productos, hotel/cabañas).
+
+## 7. Estado del proyecto al 2026-07-04
+
+Constancia de cierre de jornada. Se retoma cuando se defina con cowork el próximo paso.
+
+**Hecho hoy:**
+- Repo movido de ubicación local: pasó de colgar de `Quantix/` a `Quantix/01-division-servicios/zonda-services` (un nivel más profundo).
+- Se corrigió la ruta relativa rota que quedó tras el movimiento: en `CLAUDE.md`, la referencia al snapshot del holding pasó de `../00-comando-central/...` a `../../00-comando-central/...`. Verificado que resuelve.
+- Revisado el repo completo: sin rutas absolutas hardcodeadas y con el git remote (`origin` → GitHub `Lucas16AR/zonda-services`) intacto.
+- Cambios commiteados y pusheados a `master` (commit `1defd9a`).
+
+**Estado general:** repo sano y sincronizado con GitHub. Semana 1–2 del plan de 90 días avanzadas: nombre comercial confirmado (Zonda Services), CLAUDE.md redactado, estructura de carpetas creada, 3 skills operativas redactadas. Sin clientes todavía (fase de setup).
+
+**Pendientes abiertos (sin cambios hoy):**
+- Dominios en nic.ar (`andexconsultora.com.ar`, `nevadosolutions.com.ar`) — pospuestos por presupuesto.
+- Email profesional (Google Workspace vs Zoho) — depende de los dominios.
+- Workflow `web-pyme-seo-argentina` y los 3 simulacros de Semana 3 en `casos-exito/`.
+
+**Próximo paso:** a definir con cowork qué se prioriza. Trabajo en pausa hasta esa definición.
