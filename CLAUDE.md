@@ -38,13 +38,13 @@ Prioridad #1 absoluta del holding. Semana 1 del plan de 90 días en curso (ver s
 
 ## Reglas de routing
 
-- Tarea menciona "auditoría" + cliente genérico → activar (futura) skill `auditoria-digital-pyme`
-- Tarea menciona "auditoría" + bodega/vitivinícola → activar (futura) skill `auditoria-bodega-mendocina` + research de competencia en paralelo
-- Pide "propuesta comercial" → activar (futura) skill `propuesta-comercial-consultora`
-- Requiere texto SEO → activar (futura) workflow `web-pyme-seo-argentina`
+- Tarea menciona "auditoría" + cliente genérico → activar skill `skills/auditoria-digital-pyme.md` (Andex)
+- Tarea menciona "auditoría" + bodega/vitivinícola → activar skill `skills/auditoria-bodega-mendocina.md` (Nevado) + research de competencia en paralelo
+- Pide "propuesta comercial" → activar skill `skills/propuesta-comercial-consultora.md`
+- Requiere texto SEO → activar (futuro) workflow `web-pyme-seo-argentina` (todavía no escrito)
 - Cualquier output de cliente → pasa por revisión humana antes de salir (human-in-the-loop, sección 5.7 del manual)
 
-Las skills todavía no están escritas — son la tarea de Semana 2 del plan. Esta sección se actualiza cuando existan.
+Las tres skills de auditoría/propuesta ya están redactadas (tarea de Semana 2, hecha 2026-07-04). Falta el workflow `web-pyme-seo-argentina`.
 
 ## Decisiones pendientes
 
@@ -55,7 +55,7 @@ Las skills todavía no están escritas — son la tarea de Semana 2 del plan. Es
 ## Stack técnico
 
 - Claude Pro (activo)
-- GitHub (repo pendiente de crear — ver `decisiones.md`)
+- GitHub (repo `zonda-services` creado — un solo repo para toda la división, ver `decisiones.md`)
 - WordPress + Elementor Pro + Envato Elements (para webs de clientes)
 - Google Workspace o Zoho (a definir, para email)
 - NotebookLM (transcripción de audios de onboarding de clientes)

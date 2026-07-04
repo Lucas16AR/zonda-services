@@ -88,3 +88,13 @@ zonda-services/
 ```
 
 **Alcance de negocio confirmado (2026-07-03):** Zonda Services no se limita a bodegas. Bodegas (Nevado Solutions) es la vertical prioritaria por volumen monetario, pero Andex Consultora apunta a negocios en general (retail, gastronomía, turismo, hotelería, etc.). Los simulacros de Semana 3 deben reflejar esa diversidad, no solo el caso bodega.
+
+## 6. Skills operativas redactadas (2026-07-04)
+
+Tarea de Semana 2 completada. Las tres skills dejaron de ser placeholder y quedaron como playbooks operativos:
+
+- [x] `skills/auditoria-digital-pyme.md` (Andex) — datos requeridos, proceso de 6 pasos, formato de informe, guardrails, encadena con propuesta.
+- [x] `skills/auditoria-bodega-mendocina.md` (Nevado) — incluye enoturismo, venta directa/club de vino, research de competencia en paralelo y guardrail regulatorio (nada de asesoramiento financiero).
+- [x] `skills/propuesta-comercial-consultora.md` — catálogo de precios, empuje a suscripción (meta ≥1 cliente recurrente al cierre del trimestre), usa `plantillas/propuesta-base.md`.
+
+**Pendiente Semana 2/3:** workflow `web-pyme-seo-argentina` (texto SEO) y los 3 simulacros de Semana 3 en `casos-exito/` (bodega, PyME de productos, hotel/cabañas).
