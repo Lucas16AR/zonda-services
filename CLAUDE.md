@@ -68,4 +68,4 @@ Las tres skills de auditoría/propuesta ya están redactadas (tarea de Semana 2,
 
 ---
 
-*Ver `decisiones.md` para el detalle de decisiones tomadas y `../00-comando-central/snapshot-holding-2026.md` sección 5 para el plan completo de 90 días.*
+*Ver `decisiones.md` para el detalle de decisiones tomadas y `../../00-comando-central/snapshot-holding-2026.md` sección 5 para el plan completo de 90 días.*
